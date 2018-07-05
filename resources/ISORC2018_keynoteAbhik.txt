@@ -1,0 +1,13 @@
+﻿Keynote Title: From Timing and Energy Analysis to Testing
+
+
+Abstract:
+
+Worst-case execution time (WCET) analysis of real-time software aids in schedulability decisions. In the recent past, worst case response time (WCRT) aware system designs have been studied, specifically in the context of mulit-core systems. In this talk, we will first focus on formal WCRT analysis of software for multi-cores with detailed modeling of shared bus/caches as embodied in the extended 
+Chronos analysis tool for multi-cores. As a by-product of the platform modeling in timing analysis, systematic test generation capturing a spectrum of timing behavior can be identified. This  contrasts with the alternative approach where measurements are used to generate tests capturing pernicious timing / energy behavior. We will study the pro-s and cons of both approaches in concrete settings.
+The ability to generate tests from platform timing models, also opens up the possibility of generating tests to demonstrate cache side channel attacks as embodied in the latest Meltdown and Spectre attacks.
+
+Biography:
+
+Abhik Roychoudhury is a Professor of Computer Science at National University of Singapore. His research focuses on software testing and analysis, software security and trust-worthy software construction. He has been an  ACM Distinguished Speaker (2013-19), and head of the TSUNAMi center on software security at NUS. He is also the Lead Principal Investigator of the Singapore Cyber-security Consortium, 
+which is a consortium of over 30 companies engaging with academia for research and collaboration. He has served as Program Chair of ACM International Symposium on Software Testing and Analysis (ISSTA) 2016, Editorial Board member of IEEE Transactions on Software Engineering (TSE) (2014-20), and General Chair of ACM SIGSOFT Symposium on Foundations of Software Engineering (FSE) 2022. Abhik received his Ph.D. in Computer Science from the State University of New York at Stony Brook in 2000.
